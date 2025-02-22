@@ -24,8 +24,18 @@ Tools: Power BI, SQL
   
 -🌍 Environmental Data Analysis  
 Description: Analyzed ecological data to identify trends and propose solutions for environmental challenges.  
-Tools: Python, Tableau    
+Tools: Python, Power BI   
+🎯 Goals
 
+Deepen expertise in Data Engineering and cloud computing technologies.
+Build scalable data pipelines and systems.
+Contribute to impactful open-source projects.
+📫 Let's Connect
+
+LinkedIn: www.linkedin.com/in/precious-ochiobi
+Portfolio: https://sites.google.com/view/preciousochiobi/home
+Email: preciousochiobi18@gmail.com
+⭐ Feel free to explore my repositories and connect with me!
 <!--
 **oge-ochiobi/oge-ochiobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
