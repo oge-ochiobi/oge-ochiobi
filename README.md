@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and an aspiring Data
 Description: Created interactive dashboards to monitor and analyze employee stress management programs.  
 Tools: Power BI, SQL  
   
--🌍 Environmental Data Analysis  
-Description: Analyzed ecological data to identify trends and propose solutions for environmental challenges.  
-Tools: Python, Power BI   
+-🌍 EcoGuard Alliance Environmental Data Analysis  
+Description: Analyzed global plastic waste data for 2023 to identify trends and propose solutions for environmental challenges.  
+Tools: Python, PowerPoint   
 🎯 Goals
 
 Deepen expertise in Data Engineering and cloud computing technologies.
